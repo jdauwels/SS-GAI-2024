@@ -6,7 +6,7 @@ Saturday - 2 November 2024
 
 9:00 am - 10:30 am: Morning Lecture Session 
 
-- [General Introduction](https://docs.google.com/presentation/d/1-6smG2BvBCiRmqrDpBa2I_fHXFgGopHt/edit?usp=sharing&ouid=106033496572193449338&rtpof=true&sd=true) (90 min)
+- [General Introduction](https://docs.google.com/presentation/d/1uGdbbGyzanByF52tXBmbc32YOhFx6FcK/edit?usp=sharing&ouid=112539102430690321792&rtpof=true&sd=true) (90 min)
   
           1. Introduction to Generative AI (10min)
   
