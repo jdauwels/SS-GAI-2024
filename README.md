@@ -2,7 +2,7 @@
 
 Lecture Plan: Deep Generative AI
 
-Tuesday - 4th June 2024
+Saturday - 2 November 2024
 
 9:00 am - 10:30 am: Morning Lecture Session 
 
@@ -18,11 +18,10 @@ Tuesday - 4th June 2024
   
           5. Q&A (15 min)
 
-11:00 am - 13:00 pm: Lab Session
-
-- Variational Autoencoders : [theory](https://drive.google.com/file/d/1AGMSI4bW9czul8ArohbL1xEeIDhYYX-_/view) (30 min)
-- Variational Autoencoders : [laboratory](https://colab.research.google.com/drive/1pCLdsbPlCCDvB1QNlQ0RtrRvaS3gomcC?usp=sharing) (90 min)
--  Dataset : MNIST (in code)
+11:00 am - 12:30 pm: Lab Session
+- Generative Adversarial Networks (30 min) : [theory](https://drive.google.com/file/d/1cE9lN6t84E5wg5Ffr8-qacYmkswtB346/view?usp=sharing)
+- Generative Adversarial Networks (45 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
+- Dataset : [emojis.zip](https://github.com/DeKUT-DSAIL/dsa-2024-generative-ai-lab/blob/main/emojis.zip)
 
 
 Background
@@ -31,10 +30,9 @@ Background
 
 Advanced lab (EXTRA)
 
-- Generative Adversarial Networks (30 min) : [theory](https://drive.google.com/file/d/1cE9lN6t84E5wg5Ffr8-qacYmkswtB346/view?usp=sharing)
-- Generative Adversarial Networks (45 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
-- Dataset : [emojis.zip](https://github.com/DeKUT-DSAIL/dsa-2024-generative-ai-lab/blob/main/emojis.zip)
-
+- Variational Autoencoders : [theory](https://drive.google.com/file/d/1AGMSI4bW9czul8ArohbL1xEeIDhYYX-_/view) (30 min)
+- Variational Autoencoders : [laboratory](https://colab.research.google.com/drive/1pCLdsbPlCCDvB1QNlQ0RtrRvaS3gomcC?usp=sharing) (90 min)
+-  Dataset : MNIST (in code)
 
 Solutions will be provided after the lab session
 
