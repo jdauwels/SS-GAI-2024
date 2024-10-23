@@ -19,8 +19,8 @@ Saturday - 2 November 2024
           5. Q&A (15 min)
 
 11:00 am - 12:30 pm: Lab Session
-- Generative Adversarial Networks (30 min) : [theory](https://drive.google.com/file/d/1cE9lN6t84E5wg5Ffr8-qacYmkswtB346/view?usp=sharing)
-- Generative Adversarial Networks (45 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
+- Generative Adversarial Networks (40 min) : [theory](https://drive.google.com/file/d/14TLT3hOZRbC0gwPQa4ln7XQvyl6jByHc/view?usp=sharing)
+- Generative Adversarial Networks (50 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
 - Dataset : [emojis.zip](https://github.com/DeKUT-DSAIL/dsa-2024-generative-ai-lab/blob/main/emojis.zip)
 
 
