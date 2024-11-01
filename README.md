@@ -12,7 +12,7 @@ Saturday - 2 November 2024
   
           2. Math Basics (15min)
 
-          3. Generative AI models (30 min)
+          3. Generative AI models (35 min)
   
           4. Applications (15min)
   
