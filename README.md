@@ -21,7 +21,7 @@ Saturday - 2 November 2024
 11:00 am - 12:30 pm: Lab Session
 - Generative Adversarial Networks (40 min) : [theory](https://drive.google.com/file/d/14TLT3hOZRbC0gwPQa4ln7XQvyl6jByHc/view?usp=sharing)
 - Generative Adversarial Networks (45 min) : [laboratory](https://colab.research.google.com/drive/1yMYEqopNNsJuadzhb9_a4k9AYPBjfO_P?usp=sharing)
-- Dataset : [emojis.zip]([https://github.com/DeKUT-DSAIL/dsa-2024-generative-ai-lab/blob/main/emojis.zip](https://drive.google.com/file/d/1ueA6y9TyHXDJTsSTGpgB_-d3F6lSH5gR/view?usp=sharing))
+- Dataset : [emojis.zip](https://drive.google.com/file/d/1ueA6y9TyHXDJTsSTGpgB_-d3F6lSH5gR/view?usp=sharing)
 
 
 Background
